@@ -1,2 +1,1 @@
-# bocildigilir
-bocildigilir
+# [bocildigilir](https://bocildigilir.pages.dev)
